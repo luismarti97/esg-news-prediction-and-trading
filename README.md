@@ -14,6 +14,8 @@ This repository contains all the notebooks, models, and data pipelines developed
 
 ## 📁 Repository Structure
 
+WHOLE EXPLANATION OF THE PROJECT -- LMA_TFM MEMORIA
+
 ## 🧠 Notebooks Summary
 
 ### 🔍 NLP - ESG Classification
