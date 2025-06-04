@@ -52,3 +52,4 @@ WHOLE EXPLANATION OF THE PROJECT -- LMA_TFM MEMORIA
 - `19_STREAMLIT.ipynb`: ESG dashboard with score visualizations.
 - `20_STREAMLIT_2.ipynb`: Signal simulation and comparison with benchmark.
 
+To request the access to the notebboks, please contact luismarti92@gmail.com
